@@ -16,7 +16,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rafizhafar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">Play games with me</p>
+<h2 align="left">Play games with me</h2>
 
 ###
 <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
