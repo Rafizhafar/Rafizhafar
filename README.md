@@ -1,5 +1,5 @@
 ### Hello World! I'm Muhammad Rafi Zhafar Muzakki Syah 👋<br>
-
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/da21d7d8-e78f-4526-96ce-677e1b37f4c4" />
 
 
 
