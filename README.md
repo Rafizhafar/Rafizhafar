@@ -1,8 +1,6 @@
 
 
 
-https://github.com/user-attachments/assets/90476fa1-30e4-4ad0-9cc7-a85c30b4f3b8
-
 
 ### Hello World! I'm Muhammad Rafi Zhafar Muzakki Syah 👋<br>
 
