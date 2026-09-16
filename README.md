@@ -1,9 +1,6 @@
-
-
-
-
 ### Hello World! I'm Muhammad Rafi Zhafar Muzakki Syah 👋<br>
 
+https://github.com/user-attachments/assets/7e605b8b-a276-425c-971c-61928ba50961
 
 ##### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafizhaf) 
